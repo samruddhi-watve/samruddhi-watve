@@ -99,18 +99,3 @@ My goal is to start my career in Cloud Computing and DevOps, where I can apply m
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samruddhi-watve&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=samruddhi-watve&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-watve&layout=compact&theme=tokyonight" />
-
-</p>
