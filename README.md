@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samruddhi Watve</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | BCA Graduate | Passionate about Cloud Technologies</h3>
+<h1 align="center">Hi 👋 I'm Samruddhi Prakash Watve</h1>
+<h3 align="center">Cloud & DevOps Enthusiast | Docker | Linux | AWS | Python | Open to Cloud & DevOps Opportunities</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -11,34 +11,40 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA Graduate
-- 💼 1 year of experience in Web Development
-- ☁️ Transitioning into Cloud & DevOps
-- 🐳 Hands-on experience with Docker by containerizing a Flask application
-- 🌱 Currently learning Linux, AWS, Git, Docker and Python
-- 🎯 Looking for Cloud Intern, Cloud Support and DevOps opportunities
+I am a BCA graduate with one year of experience in Web Development. I am currently transitioning into Cloud Computing and DevOps by building hands-on projects using Docker, Linux, Git, Python, Flask, and AWS.
+
+I enjoy solving technical problems, learning modern cloud technologies, and continuously improving my technical skills through practical projects.
+
+🎯 Currently seeking opportunities as a Cloud Intern, Cloud Support Engineer, or DevOps Intern.
 
 ---
 
 ## 🛠️ Skills
 
-**Cloud & DevOps**
+## 🛠️ Technical Skills
+
+### Cloud
 - AWS (EC2, S3, IAM - Learning)
+
+### DevOps
 - Docker
-- Git & GitHub
+- Git
+- GitHub
+
+### Operating System
 - Linux (Ubuntu)
 
-**Programming**
+### Programming Languages
 - Python
-- HTML
-- CSS
-- JavaScript
 - PHP
+- JavaScript
+- HTML5
+- CSS3
 
-**Frameworks & Databases**
+### Frameworks & Database
 - Flask
-- MySQL
 - WordPress
+- MySQL
 
 ---
 
@@ -46,27 +52,42 @@
 
 ### 🐳 Dockerized Flask Application
 
-Successfully containerized a Python Flask application using Docker.
+Containerized an open-source Python Flask application using Docker and successfully deployed it locally.
 
-**Highlights**
-- Forked an open-source Flask repository
-- Created and updated the Dockerfile
-- Built and ran the Docker image locally
-- Verified the application in a web browser
+### Technologies Used
+
+- Docker
+- Python
+- Flask
+- Git
+- GitHub
+
+### Key Highlights
+
+- Forked an open-source repository
+- Updated the Dockerfile
+- Built Docker image locally
+- Created and ran Docker container
+- Verified the application using a browser
 - Documented the complete deployment process
 
 🔗 Repository:
 https://github.com/samruddhi-watve/python-flask-docker-hello-world
 
----
+## 🎯 Career Goal
+
+My goal is to start my career in Cloud Computing and DevOps, where I can apply my technical skills, continue learning modern cloud technologies, and contribute to building reliable and scalable solutions.
 
 ## 📚 Currently Learning
 
 - Linux Administration
-- Docker
+- Docker & Containerization
 - AWS Cloud
-- Networking
+- Networking Fundamentals
 - Shell Scripting
+- Python Automation
+
+
 
 ---
 
