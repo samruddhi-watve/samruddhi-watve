@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Watve</h1>
 <h3 align="center">Aspiring Cloud & DevOps Engineer | BCA Graduate | Passionate about Cloud Technologies</h3>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 ---
 
 ## 👩‍💻 About Me
@@ -74,3 +80,18 @@ https://github.com/samruddhi-watve/python-flask-docker-hello-world
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samruddhi-watve&show_icons=true&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samruddhi-watve&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-watve&layout=compact&theme=tokyonight" />
+
+</p>
