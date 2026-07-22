@@ -19,8 +19,6 @@ I enjoy solving technical problems, learning modern cloud technologies, and cont
 
 ---
 
-## 🛠️ Skills
-
 ## 🛠️ Technical Skills
 
 ### Cloud
