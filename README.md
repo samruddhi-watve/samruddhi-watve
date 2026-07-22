@@ -66,10 +66,10 @@ https://github.com/samruddhi-watve/python-flask-docker-hello-world
 
 ## 📫 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: watve.7015@gmail.com
 
 💼 LinkedIn:
-(Add your LinkedIn profile link)
+(https://www.linkedin.com/in/samruddhi-watve-b0947b247/)
 
 ---
 
